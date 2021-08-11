@@ -1,0 +1,17 @@
+.logo {
+    height: 65px;
+    width: 105px;
+    margin-right: 5%;
+  }
+
+  .img-background {
+      background-image: url(../img/veto.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      height: 50vh;
+  }
+  .anicard {
+    display: flex;
+    flex-wrap: wrap;
+}
